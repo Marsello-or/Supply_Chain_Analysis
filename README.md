@@ -71,4 +71,4 @@ git clone [https://github.com/username/supply-chain-optimization.git](https://gi
 ```bash
 pip install pandas numpy scikit-learn pulp scipy matplotlib seaborn
 ```
-4. Jalankan Jupyter Notebook / Google Colab script secara berurutan dari Bab 1 hingga Bab 10 untuk memproduksi file .csv hasil optimasi.
+4. Jalankan Jupyter Notebook / Google Colab script secara berurutan untuk memproduksi file .csv hasil optimasi.
