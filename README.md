@@ -45,7 +45,7 @@ Merumuskan fungsi tujuan minimalisasi biaya logistik global dengan batasan kapas
 
 | Metric Indicators | Before Optimization | After Optimization | Delta / Impact |
 | :--- | :---: | :---: | :---: |
-| **Total Logistics Cost** | Rp 554.81 | Rp 125.54 | **-77.37% (Saved)** |
+| **Total Logistics Cost** | Rupee 554.81 | Rupee 125.54 | **-77.37% (Saved)** |
 | **Stockout Risk Probability** | 95% - 100% (Critical) | < 5.00% (Controlled) | **Risk Eliminated** |
 | **Logistics Allocation** | Scattered / Unstandardized | Carrier Consolidated (Road) | **Optimal Supply Network** |
 
